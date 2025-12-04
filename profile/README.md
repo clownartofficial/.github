@@ -1,7 +1,7 @@
 <div align="center">
 	<br />
 	<p>
-		<a href="https://www.clown.art/"><img src="/sous-logo.png" width="546" alt="clown.art" /></a>
+		<a href="https://www.clown.art/"><img src="/.github/blob/main/profile/sous-logo.png" width="546" alt="clown.art" /></a>
 	</p>
 </div>
 
@@ -14,3 +14,4 @@ Clown est une marque qui offre des matériaux artistiques de haute qualité et s
 - [TikTok](https://www.tiktok.com/@clown.art__)
 - [Site Web](https://www.clown.art/)
 - [Pinterest](https://fr.pinterest.com/clownartofficiel)
+
