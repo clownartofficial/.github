@@ -1,7 +1,7 @@
 <div align="center">
 	<br />
 	<p>
-		<a href="https://www.clown.art/"><img src="https://github.com/clownartofficial/.github/blob/main/profile/sous-logo.png" width="546" alt="clown.art" /></a>
+		<a href="https://www.clown.art/"><img src="https://github.com/clownartofficial/static.clown.school/blob/main/images/logo/clown-alt-rouge.png" width="546" alt="clown.art" /></a>
 	</p>
 </div>
 
